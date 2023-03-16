@@ -4,7 +4,14 @@
 
 ############################################################
 ### local test requests
-POST {{local}}/route
+POST {{local}}/sendStatus
+content-type: application/json
+
+{
+}
+
+###
+POST {{local}}/deadbeefdeadbeefdeadbeefdeadbeef
 content-type: application/json
 
 {
@@ -12,7 +19,14 @@ content-type: application/json
 
 ############################################################
 ### deployment requests
-POST {{deploy}}/route
+POST {{deploy}}/sendStatus
+content-type: application/json
+
+{
+}
+
+###
+POST {{deploy}}/deadbeefdeadbeefdeadbeefdeadbeef
 content-type: application/json
 
 {
