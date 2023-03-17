@@ -1,6 +1,6 @@
 ############################################################
 @local = https://localhost:6999
-@deploy = https://
+@deploy = https://tst-lenny.weblenny.at
 
 ############################################################
 ### local test requests
