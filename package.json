@@ -62,6 +62,6 @@
         "thingy-debug": "^0.0.1",
         "webpack": "^5.76.2",
         "webpack-cli": "^5.0.1",
-        "thingy-sci-base": "^0.0.4"
+        "thingy-sci-base": "^0.0.8"
     }
 }

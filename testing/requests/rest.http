@@ -4,22 +4,24 @@
 
 ############################################################
 ### local test requests
-POST {{local}}/sendStatus
+POST {{local}}/getStatus
 content-type: application/json
 
 {
+    "token": "cafebabecafebabecafebabecafebabecafebabecafebabecafebabecafebabe"
 }
 
 ###
-POST {{local}}/deadbeefdeadbeefdeadbeefdeadbeef
+POST {{local}}/cafebabecafebabecafebabecafebabecafebabecafebabecafebabecafebabe
 content-type: application/json
 
 {
+    "token": "cafebabecafebabecafebabecafebabecafebabecafebabecafebabecafebabe"
 }
 
 ############################################################
 ### deployment requests
-POST {{deploy}}/sendStatus
+POST {{deploy}}/getStatus
 content-type: application/json
 
 {
