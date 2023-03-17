@@ -16,7 +16,7 @@ POST {{local}}/cafebabecafebabecafebabecafebabecafebabecafebabecafebabecafebabe
 content-type: application/json
 
 {
-    "token": "cafebabecafebabecafebabecafebabecafebabecafebabecafebabecafebabe"
+    "token": "cafebabecafebabecafebabecafebabecafebabecafebabecafebabecafebaby"
 }
 
 ############################################################

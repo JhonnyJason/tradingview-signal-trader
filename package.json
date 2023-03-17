@@ -59,7 +59,7 @@
         "thingy-allmodules-sync": "^0.2.0",
         "thingy-debug": "^0.0.1",
         "thingy-module-gen": "^0.1.6",
-        "thingy-sci-base": "^0.0.8",
+        "thingy-sci-base": "^0.0.10",
         "thingymodulecreate": "^0.1.8",
         "thingysync": "^0.1.2",
         "webpack": "^5.76.2",
