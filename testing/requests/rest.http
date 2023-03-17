@@ -33,4 +33,5 @@ POST {{deploy}}/e1tf5f17u2872v4c41y3d4g32kbdo9pd
 content-type: application/json
 
 {
+    "token": ""
 }
